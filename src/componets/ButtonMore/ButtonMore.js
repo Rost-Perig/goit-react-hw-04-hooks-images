@@ -7,16 +7,4 @@ const ButtonMore = ({clickOn}) => {
     );
 };
 
-// class ButtonMore extends Component {
-
-//     clickButton = this.props.buttonClick;
-
-//     render() { 
-//        return (
-//         <button type="button" className={s.loadMoreButton} onClick={this.clickButton}>Load more</button>      
-//         ) 
-//     };
-// };
-
-
 export default ButtonMore;
