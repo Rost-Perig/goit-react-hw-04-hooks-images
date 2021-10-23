@@ -1,2 +1,3 @@
 # goit-react-hw-04-hooks-images
-goit-react-hw-04-hooks-images
+
+Проведен рефакторинг кода задания Поиск изображений используя React-хуки.
